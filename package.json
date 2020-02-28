@@ -1,0 +1,30 @@
+{
+  "name": "reactpremierleague",
+  "version": "1.0.0",
+  "description": "Premier League standings app using react",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blair221/reactpremierleague.git"
+  },
+  "keywords": [
+    "react",
+    "SPA",
+    "node",
+    "express"
+  ],
+  "author": "Blair Brownlie-Edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blair221/reactpremierleague/issues"
+  },
+  "homepage": "https://github.com/Blair221/reactpremierleague#readme"
+}
